@@ -1,5 +1,4 @@
 # ProjectONPS
-Practicing the Environment
 Online National Polling System
 
 The project was developed by me in when i started learning ASP.NET previous year.
